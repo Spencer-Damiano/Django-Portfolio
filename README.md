@@ -13,7 +13,7 @@ This repository holds:
 * Templates -
     * Holds the HTML files for the website.
 
-[future Demo Video](http://youtube.link.goes.here)
+[Demo Video](https://youtu.be/GKd_sKopaIo)
 
 ## Web Pages
 
